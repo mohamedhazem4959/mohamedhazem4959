@@ -1,3 +1,7 @@
+<img align="left" height="150" src="https://images.wallpaperscraft.com/image/single/code_letters_screen_137590_2560x1024.jpg"  />
+
+###
+
 <h1 align="left">Hi 👋! My name is  Mohamed and I'm a Back-end developer.</h1>
 
 ###
@@ -45,9 +49,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mohamedhazem4959/mohamedhazem4959/output/snake.svg" alt="Snake animation" />
 
 ###
