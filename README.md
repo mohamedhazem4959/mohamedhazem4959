@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is  Mohamed and I'm a Back-end developer.</h1>
+<h1 align="left">Hi 👋! My name is  Mohamed and I'm a Software Engineer.</h1>
 
 ###
 
-<p align="left">🧑‍🎓 i am a computer science student</p>
+<p align="left">I am specialized at backend development using node.js</p>
 
 ###
 
