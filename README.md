@@ -1,8 +1,12 @@
 <img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmR5anhvNmlmZGpuMm1rbTN3cjVyaXBvaTc5d2hza252OWpzNmEyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 
 ###
-
-<h1 align="left">Hi 👋! My name is  Mohamed and I'm a Software Engineer.</h1>
+<br>
+<div align="center">
+  <div style="text-align: left; display: inline-block;">
+    <h1>Hi 👋! My name is Mohamed and I'm a Software Engineer.</h1>
+  </div>
+</div>
 
 ###
 
